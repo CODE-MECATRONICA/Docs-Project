@@ -1,0 +1,28 @@
+CODE-MECATRONICA
+ENTREGA DE PROYECTO — PROGRAMACIÓN ORIENTADA A OBJETOS
+
+Por medio del presente documento se realiza la entrega de los recursos desarrollados por la organización CODE-MECATRONICA, enfocados en la implementación y aplicación de conceptos de Programación Orientada a Objetos (POO).
+
+Dentro de los recursos entregados se encuentra una guía interactiva orientada al aprendizaje de conceptos fundamentales como encapsulamiento, herencia, polimorfismo, abstracción y demás principios aplicados en el desarrollo de software.
+
+Adicionalmente, se presenta un proyecto funcional de asistencia web, desarrollado bajo metodologías de Programación Orientada a Objetos, permitiendo evidenciar la aplicación práctica de estructuras, clases y organización lógica del sistema.
+
+MIEMBROS DE LA ORGANIZACIÓN
+
+* Armando Alonso Pinto Antonio
+* Julián Andrés Ariza Ariza
+* Santiago Andrés Torres Narváez
+* Fernando Augusto Perdomo Ortiz
+
+ENLACES DEL PROYECTO
+
+Organización GitHub:
+[https://github.com/CODE-MECATRONICA](https://github.com/CODE-MECATRONICA)
+
+Landing Page — Guía de Programación Orientada a Objetos:
+[https://code-mecatronica.github.io/Poo-Project/](https://code-mecatronica.github.io/Poo-Project/)
+
+Proyecto Funcional — Sistema de Asistencia Web:
+[https://code-mecatronica.github.io/Funcional-project/](https://code-mecatronica.github.io/Funcional-project/)
+
+El desarrollo de estos proyectos tiene como finalidad fortalecer el aprendizaje práctico de la Programación Orientada a Objetos mediante herramientas funcionales y recursos educativos accesibles para los usuarios.
